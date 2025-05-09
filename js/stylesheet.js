@@ -43,8 +43,8 @@ window.onload = function({ target: Document }) {
 
       <div class="resolution">
         <h1>Resolution not supported!</h1>
-        <a class="anchor" href="https://www.instagram.com/codansoficial">
-          Follow @codans in social medias
+        <a class="anchor" href="https://malupinheiro.netlify.app/">
+          explore other sites in Malu Pinheiro
         </a>
       </div>
     `;
